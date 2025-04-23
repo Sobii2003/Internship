@@ -1,0 +1,1 @@
+Stash file 8 stash pop
